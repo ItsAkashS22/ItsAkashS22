@@ -1,6 +1,6 @@
 Hi, I’m Akash S 👋
 
-Hey there, A computer science enthusiast with a passion for technology, travel, and photography. I view computers and applications as a vehicle to inspire others to pursue their passions and enjoy the world around them.
+A computer science enthusiast with a passion for technology, travel, and photography. I view computers and applications as a vehicle to inspire others to pursue their passions and enjoy the world around them.
 
 In my early days, I started my computer science journey by learning C, C++, Java, Python.. And then expanded my skillset by learning HTML, CSS, JavaScript, PHP, NodeJS, MySQL etc. Later learnt Flutter and started my career as Mobile Application Developer, with experience i became an Full Stack Mobile Application Developer and then started to develop and manage APIs, Web Applications and Mobile Applications. Now I'm a Complete Full Stack Developer with good knowledge of Data Structures and daily learning more things, getting updated to latest technology updates.
 
