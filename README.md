@@ -1,12 +1,11 @@
 # I'm Akash 👋
 
-**Cross-Platform Software Engineer | Product Builder | Systems Thinker**
-
+**Cross-Platform Software Engineer | Product Builder | Systems Thinker** - 
 I build **scalable mobile applications, web platforms and real-time systems** used in production by startups, enterprises and large public platforms.
 
-Based in **Bengaluru, India**, I work with **global remote teams** turning ambitious ideas into **production-ready products**.
 
----
+<img width="3168" height="792" alt="Akash-LinkedIn-Cover (1)" src="https://github.com/user-attachments/assets/97799023-bcfa-4904-bdec-a5dbb6883165" />
+
 
 ## About Me 🥷
 
